@@ -1,0 +1,6 @@
+
+Agüero Luna Juan Cruz
+23 años
+Soy de Catamarca, capital
+Me especilizo en desarrollo web con tecnologias como: 
+	HTML5 - CSS3 - Bootstrap - Javascript - Typescript - Java - Angular
