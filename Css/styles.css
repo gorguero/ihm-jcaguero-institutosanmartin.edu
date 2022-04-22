@@ -10,3 +10,11 @@
 .principal{
     margin-top: 150px;
 }
+
+.carousel-item{
+    height: 80vh;
+}
+
+footer{
+    height: 200px;
+}
