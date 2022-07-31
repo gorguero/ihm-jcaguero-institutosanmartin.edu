@@ -14,6 +14,15 @@
     padding-top: 20px;
 }
 
+/*CARRUSEL*/
+.carousel-inner{
+    height: 700px;
+}
+.carousel img{
+    max-height: 700px;
+    margin: 0 auto;
+}
+
 /*CARDS*/
 .producto-card{
     width: 350px;
